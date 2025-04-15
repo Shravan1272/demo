@@ -1,5 +1,5 @@
 a="22.22"
 b=float(a)
 t=type(b)
-print(t)
-print("We have installed and Configured Google App Engine. ")
+print("time 2 45")
+print("just now installed and Configured Google App Engine. ")
